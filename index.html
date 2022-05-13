@@ -8,13 +8,15 @@
     <link rel="stylesheet" href="style.css">
     <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
 </head>
-<body>
+<body onloadeddata="getRandomQuote()">
     <div class="container">
         <div class="container2">
             <img src="assets/chat-bubble.png" alt="chat bubble" id="bubble">
-            <div class="words">Randomized quotes and motivational messages coming soon</div>
+            <p id="current-quote"></p>
         </div>
         <img src="assets/jake-pic.jpeg" alt="picture of ya boi" id="selfie">
     </div>
 </body>
 </html>
+
+<script src="script.js"></script>
