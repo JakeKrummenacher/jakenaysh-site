@@ -4,6 +4,8 @@ quotes.push("Believe it or not I actually programmed this.");
 quotes.push("To dip is to die. Problem solved.");
 quotes.push("It's tomorrow now");
 quotes.push("We all die. You either kill yourself or get killed");
+quotes.push("Sports!");
+quotes.push("¡Deportes!");
 
 var quoteUsed = "Hey man";
 
