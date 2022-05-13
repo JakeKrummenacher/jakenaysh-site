@@ -19,13 +19,13 @@ body{
 }
 
 
-.words{
-    width: 200px;
+#current-quote{
+    width: 325px;
     text-align: center;
     font-family: Roboto;
     font-size: xx-large;
     position: absolute;
-    top: 40%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
