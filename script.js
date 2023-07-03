@@ -6,9 +6,15 @@ let quotes = [
     "I'm gonna KILL you, driving crooner",
     "I FELL",
     "yaaaaaAAAAAYYYY",
-    "get on my bad side -- shame on you... get on my good side -- shame on me",
+    "get on my bad side? shame on you... get on my good side? shame on me",
     "PLEASE LET ME GO I'M DOING SOMETHING",
-    "The FitnessGram Pacer Test is a multi-stage aerobic capacity test which progressively gets harder as it continues"
+    "The FitnessGram Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues",
+    "Jake Naysh Y'all",
+    "IT CAN'T BE REAL IT'S NOT SAFE",
+    "I'M NOT A LITTLE RAT BOY",
+    "wanna play some catan?",
+    "Ay que rico",
+    "A lot of everything has some of them"
 ];
 
 let quoteUsed = "";
